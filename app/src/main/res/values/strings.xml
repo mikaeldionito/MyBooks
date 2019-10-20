@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MyBooks</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nov1">
+    Harry Potter dan Batu Bertuah adalah novel pertama dalam seri Harry Potter karangan J.K. Rowling yang akan terdiri dari tujuh buku dan menampilkan Harry Potter, seorang penyihir muda. Buku ini terdiri dari 17 bab yg menggambarkan bagaimana Harry mengetahui bahwa dia adalah seorang penyihir, membuat teman akrab dan beberapa musuh di Sekolah Ilmu Gaib dan Ilmu Sihir Hogwarts, dan dengan pertolongan teman-temannya menghalangi kembalinya penyihir jahat Voldemort, yang membunuh orang tua Harry dan mencoba untuk membunuh Harry ketika dia masih berumur satu tahun .
+    </string>
+
+    <string name="nov2">
+    Harry Potter disuruh mempersiapkan rumah untuk kunjungan dari klien potensial Vernon Dursley. Namun, setelah selesai, paman Dursley menyuruh Harry ke kamarnya. Di kamar, Harry bertemu Dobby si peri rumah, ia memperingatkan Harry untuk tidak kembali ke Hogwarts. Ketika Harry menolak, Dobby menyebabkan kekacauan di rumah dan membuat Harry merusak pertemuan Vernon. Vernon mengunci Harry di kamarnya untuk mencegah kembali ke Hogwarts. Tetapi, Ron, Fred, dan George Weasley tiba dengan mobil terbang mereka untuk menyelamatkan Harry dari cengkeraman Paman Vernon, yang sedang berusaha untuk menarik Harry kembali ke kamarnya. Harry kemudian dibawa ke The Burrow, rumah keluarga Weasley.
+    </string>
+
+    <string name="nov3">
+    Harry Potter dan Tawanan Azkaban (judul bahasa Inggris: Harry Potter and the Prisoner of Azkaban) adalah buku ketiga dari seri novel Harry Potter oleh J. K. Rowling. Buku ini diluncurkan pada Maret 2001 di Indonesia. Buku ini pertama kali diluncurkan dalam bahasa Inggris pada 8 Juli 1999 di negara Inggris, sementara di Amerika Serikat pada 8 September 1999. Sebuah film berdasarkan buku ini dirilis pada 31 Mei 2004 di Inggris dan 4 Juni 2004 di Amerika Serikat dan di seluruh dunia. Hanya dalam seri ketiga ini, Lord Voldemort tidak dimunculkan dalam bentuk apa pun.
+    </string>
+
+    <string name="nov4">
+    Harry Potter dan Piala Api (judul bahasa Inggris: Harry Potter and the Goblet of Fire) adalah buku keempat dari seri novel Harry Potter karya J. K. Rowling. Buku ini diluncurkan di Indonesia pada bulan Oktober 2001. Versi asli bahasa Inggris dipublikasikan pada 8 Juli 2000 dengan promosi yang lebih besar melebihi buku manapun hingga saat itu — dikalahkan hanya oleh sekuel-sekuelnya, Orde Phoenix dan Pangeran Berdarah Campuran. Piala Api merupakan buku yang cukup tebal untuk ukuran buku anak-anak, mencapai 882 halaman untuk versi Indonesianya, 636 untuk versi Inggris dan 734 untuk rilis Amerika Serikat.
+    </string>
+
+    <string name="nov5">
+        Harry Potter dan Orde Phoenix (judul bahasa Inggris: Harry Potter and the Order of the Phoenix) adalah buku kelima dalam seri novel Harry Potter oleh J. K. Rowling. Buku ini diluncurkan pada 11 Januari 2004 untuk versi bahasa Indonesia menyusul versi Inggris yang diluncurkan pada 21 Juni 2003. Di Amerika Serikat dan Inggris, buku ini terjual hampir tujuh juta buku pada hari peluncuran tersebut.
+    </string>
+</resources>
